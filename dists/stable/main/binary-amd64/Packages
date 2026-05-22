@@ -34,3 +34,21 @@ Homepage: https://github.com/racum/uuinfo
 Description: Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
  Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
 
+Package: uuinfo
+Architecture: amd64
+Version: 0.7.4-1
+Priority: optional
+Section: utils
+Maintainer: Ronaldo Ferreira <ronaldo@racum.com>
+Installed-Size: 2317
+Depends:
+Filename: pool/main/amd64/uuinfo_0.7.4_amd64.deb
+Size: 732652
+MD5sum: 8c7f5a84c3479449ceae09f497332c38
+SHA1: 7e506aeb739bb4a8b2254152877ad548b30e4fdb
+SHA256: 357e0272feb7dbcffa71d122de6cdf13f8fee2c44dae9ec61da929cf93d84247
+SHA512: 92e58dd224c7d161c563df881b04213e885560bc7f9db562ec1e5e74cd9846f376b75c4cafa4d609eb2d54360d509fc1264929fc3c7d4e3788d4cce88634d98d
+Homepage: https://github.com/racum/uuinfo
+Description: Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
+ Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
+
