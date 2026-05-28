@@ -1,3 +1,23 @@
+Package: sfogliatrice
+Architecture: amd64
+Version: 0.6.1-1
+Priority: optional
+Section: science
+Maintainer: Ronaldo Ferreira <ronaldo@racum.com>
+Installed-Size: 1673
+Depends:
+Filename: pool/main/amd64/sfogliatrice_0.6.1_amd64.deb
+Size: 631644
+MD5sum: 571bbe72168a966ca6a0d442a7100e87
+SHA1: 4cdad46687298a60a63fe159a1eedf0e2abaceef
+SHA256: 88a314ab39752b312c9574b43d56db95eafb10c533d703fcb437e63a22ee5d14
+SHA512: 00192fc8a1d69fb902a5dccf95093737bcfa072d4b6126e6aa6a3fbc868161d1c97ece9c3f11b39f94e57185f974165cf4c2805790d14fc42816d9ecd9fe7096
+Homepage: https://github.com/racum/sfogliatrice
+Description: CLI tool to tessellate GeoJSON geometries into satellite survey targets and
+ coverages
+ CLI tool to tessellate GeoJSON geometries into satellite survey targets and
+ coverages
+
 Package: uuinfo
 Architecture: amd64
 Version: 0.7.2-1
