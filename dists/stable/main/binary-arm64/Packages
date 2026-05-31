@@ -72,3 +72,21 @@ Homepage: https://github.com/racum/uuinfo
 Description: Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
  Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
 
+Package: uuinfo
+Architecture: arm64
+Version: 0.7.5-1
+Priority: optional
+Section: utils
+Maintainer: Ronaldo Ferreira <ronaldo@racum.com>
+Installed-Size: 1881
+Depends:
+Filename: pool/main/arm64/uuinfo_0.7.5_arm64.deb
+Size: 645952
+MD5sum: f2f7dc39dfa6c7febbfbb6e70bcdb8f9
+SHA1: df6727893c6040f0d12d1edcc1fbbb6199ff1810
+SHA256: 3ffd96db98bd760900d927164e1c62e68654d2a0d71efd1a95d4174ba9c52342
+SHA512: 8776326f9eeb4752cad7cce2a43ecab43659a3cfa9a556df90493b92250a98c6162ccf053bfadef8377e51dde4d3ec14e64712b007356bbceec431b0e2d4904a
+Homepage: https://github.com/racum/uuinfo
+Description: Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
+ Tool to debug unique identifiers (UUID, ULID, Snowflake, etc)
+
